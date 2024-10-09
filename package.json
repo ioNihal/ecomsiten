@@ -1,0 +1,27 @@
+{
+  "name": "ecomsite",
+  "version": "1.0.0",
+  "description": "Fifth Semester Mini Project..",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecommerce",
+    "page",
+    "shopping",
+    "online",
+    "cart",
+    "trade"
+  ],
+  "author": "Nihal K",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0"
+  }
+}
